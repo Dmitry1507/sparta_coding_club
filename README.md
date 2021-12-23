@@ -1,2 +1,4 @@
-# sparta_coding_club
-sparta_coding_club : Practice
+(구) 카카오톡 프로필 화면 만들기 입니다.
+
+내일배움캠프 3조
+작성자 : 이형주
